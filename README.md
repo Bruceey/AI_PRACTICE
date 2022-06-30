@@ -1,0 +1,2 @@
+# AI_PRACTICE
+ai练习
